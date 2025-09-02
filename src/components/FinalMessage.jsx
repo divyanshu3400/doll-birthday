@@ -209,7 +209,7 @@ const FinalMessageSection = () => {
           
           <div className="relative z-10">
             <p className="text-2xl sm:text-3xl lg:text-4xl text-slate-700 mb-8 font-bold bg-gradient-to-r from-rose-600 to-amber-600 bg-clip-text text-transparent">
-              To Mah Doll, 💕
+              To You 💕
             </p>
             
             <div className="space-y-6 sm:space-y-8">
@@ -231,7 +231,7 @@ const FinalMessageSection = () => {
             
             <div className="mt-10 p-6 bg-gradient-to-r from-rose-100/50 to-amber-100/50 rounded-2xl border border-rose-200/30">
               <p className="text-2xl sm:text-3xl lg:text-4xl bg-gradient-to-r from-rose-600 via-purple-600 to-amber-600 bg-clip-text text-transparent font-bold animate-pulse">
-                Happy Birthday, Mah Beautiful Doll! 💕🎉
+                Happy Birthday Dear 💕🎉
               </p>
             </div>
           </div>

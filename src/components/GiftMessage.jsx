@@ -28,7 +28,7 @@ const GiftMessagesSection = () => {
   return (
     <div className="text-center max-w-7xl mx-auto">
       <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold bg-gradient-to-r from-violet-600 to-rose-600 bg-clip-text text-transparent mb-10 px-2">
-        Special Messages for doll 🎁
+        Special Messages for You 🎁
       </h2>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-6 lg:gap-10">
